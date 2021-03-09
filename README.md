@@ -1,2 +1,9 @@
-# comisariaVirtual
-Comisaria Virtual with Docker
+### Comisaría Virtual
+# Nombres
+- Nicolás Cárcamo
+- Mateo Sepúlveda
+# Tecnologías
+- Docker
+- Spring Boot
+- VueJS
+- PostgreSQL
